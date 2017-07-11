@@ -1,0 +1,3734 @@
+# WordPress Voyager
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"WordPress Voyager "
+"v1.0.0\n"
+"POT-Creation-Date: "
+"2016-10-25 01:46+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Evatheme Team "
+"<translations@example."
+"com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"1.8.11\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "404"
+msgstr ""
+
+#: 404.php:12
+msgid ""
+"Oops...Page not found!"
+msgstr ""
+
+#: 404.php:15
+msgid "back to home page"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:315
+msgid "Normal"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:316
+msgid "Italic"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:317
+msgid "Light"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:318
+msgid "Bold"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:319
+msgid "Semi-bold"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:320
+msgid "Semibold It"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:321
+msgid "Bold It"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:335
+#: admin/classes/class.options_machine.php:366
+msgid "None"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:336
+msgid "Capitalize"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:337
+msgid "Lowercase"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:338
+msgid "Uppercase"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:367
+msgid "Solid"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:368
+msgid "Dashed"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:369
+msgid "Dotted"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:391
+msgid "Repeat"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:392
+msgid "Repeat-x"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:393
+msgid "Repeat-y"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:394
+msgid "No repeat"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:402
+msgid "Left"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:403
+msgid "Right"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:404
+#: admin/classes/class.options_machine.php:414
+msgid "Center"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:412
+#: framework/metabox/page-options.php:206
+#: framework/metabox/page-options.php:229
+msgid "Top"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:413
+#: framework/metabox/page-options.php:207
+#: framework/metabox/page-options.php:230
+msgid "Bottom"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:422
+msgid "Scroll"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:423
+msgid "Fixed"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:424
+msgid "Local"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:528
+msgid "Add New Slide"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:641
+msgid "No backups yet"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:648
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/classes/class.options_machine.php:649
+msgid "Backup Options"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:650
+msgid "Restore Options"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:660
+msgid "Import Options"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:739
+msgid "On"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:746
+msgid "Off"
+msgstr ""
+
+#: admin/front-end/options.php:4
+msgid "Options Updated"
+msgstr ""
+
+#: admin/front-end/options.php:8
+#: admin/front-end/options.php:72
+msgid "Options Reset"
+msgstr ""
+
+#: admin/front-end/options.php:12
+msgid "Error!"
+msgstr ""
+
+#: admin/front-end/options.php:29
+msgid ""
+"Online Documentation"
+msgstr ""
+
+#: admin/front-end/options.php:29
+msgid "Support Forum"
+msgstr ""
+
+#: admin/front-end/options.php:32
+msgid ""
+"Warning- This options "
+"panel will not work "
+"properly without "
+"javascript!"
+msgstr ""
+
+#: admin/front-end/options.php:47
+#: admin/front-end/options.php:71
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/functions/functions.interface.php:58
+msgid "Theme Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:100
+msgid "Demo Data Import"
+msgstr ""
+
+#: admin/functions/functions.options.php:104
+msgid "Import Demo Content"
+msgstr ""
+
+#: admin/functions/functions.options.php:107
+msgid ""
+"Help you to import demo "
+"content. WARNING: This "
+"option overwrite your "
+"current theme options! "
+"If you get white screen, "
+"please refresh page(F5)."
+msgstr ""
+
+#: admin/functions/functions.options.php:114
+msgid "Import Travel Demo"
+msgstr ""
+
+#: admin/functions/functions.options.php:121
+msgid "Import Fashion Demo"
+msgstr ""
+
+#: admin/functions/functions.options.php:128
+msgid "Import Wedding Demo"
+msgstr ""
+
+#: admin/functions/functions.options.php:135
+msgid ""
+"Import Building Demo"
+msgstr ""
+
+#: admin/functions/functions.options.php:142
+msgid "Import Food Demo"
+msgstr ""
+
+#: admin/functions/functions.options.php:149
+msgid ""
+"Import Photography Demo"
+msgstr ""
+
+#: admin/functions/functions.options.php:155
+msgid "General"
+msgstr ""
+
+#: admin/functions/functions.options.php:213
+msgid ""
+"Subscribe Popup Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:216
+msgid ""
+"Subscribe Popup Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:220
+msgid "Subscribe Popup"
+msgstr ""
+
+#: admin/functions/functions.options.php:227
+msgid "Background image"
+msgstr ""
+
+#: admin/functions/functions.options.php:228
+msgid ""
+"Upload a image for the "
+"popup background"
+msgstr ""
+
+#: admin/functions/functions.options.php:234
+msgid "Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:235
+msgid ""
+"enter a heading for the "
+"subscribe popup"
+msgstr ""
+
+#: admin/functions/functions.options.php:241
+#: admin/functions/functions.options.php:1133
+#: framework/megamenu.php:278
+msgid "Description"
+msgstr ""
+
+#: admin/functions/functions.options.php:242
+msgid ""
+"enter a description for "
+"the subscribe popup"
+msgstr ""
+
+#: admin/functions/functions.options.php:248
+msgid "MailChimp Form ID"
+msgstr ""
+
+#: admin/functions/functions.options.php:249
+msgid ""
+"enter a Form ID fron "
+"MailChimp Plugin"
+msgstr ""
+
+#: admin/functions/functions.options.php:256
+msgid ""
+"Fixed Right Panel Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:259
+msgid ""
+"Fixed Right Panel With "
+"Widgets"
+msgstr ""
+
+#: admin/functions/functions.options.php:263
+msgid "Right Fixed Panel"
+msgstr ""
+
+#: admin/functions/functions.options.php:264
+msgid ""
+"Right Fixed Panel for "
+"all pages."
+msgstr ""
+
+#: admin/functions/functions.options.php:270
+msgid ""
+"Fuction for Fixed "
+"Sidebar Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:273
+msgid ""
+"Fixed Sidebar With "
+"Widgets (function)"
+msgstr ""
+
+#: admin/functions/functions.options.php:277
+msgid ""
+"Function for Fixed "
+"Sidebar Enable"
+msgstr ""
+
+#: admin/functions/functions.options.php:278
+msgid ""
+"Enable this function for "
+"Fixed Sidebar for pages, "
+"post, shop."
+msgstr ""
+
+#: admin/functions/functions.options.php:284
+#: admin/functions/functions.options.php:287
+msgid "Page 404"
+msgstr ""
+
+#: admin/functions/functions.options.php:301
+msgid "Header and Footer"
+msgstr ""
+
+#: admin/functions/functions.options.php:305
+msgid ""
+"Header Type option "
+"heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:308
+msgid "Header Type"
+msgstr ""
+
+#: admin/functions/functions.options.php:312
+msgid ""
+"Select a Header Layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:356
+msgid "Header section"
+msgstr ""
+
+#: admin/functions/functions.options.php:359
+msgid "Header Icons"
+msgstr ""
+
+#: admin/functions/functions.options.php:363
+#: admin/functions/functions.options.php:1014
+msgid "Social Icons"
+msgstr ""
+
+#: admin/functions/functions.options.php:369
+msgid "Search Icon"
+msgstr ""
+
+#: admin/functions/functions.options.php:376
+#: admin/functions/functions.options.php:379
+msgid "Header ADS"
+msgstr ""
+
+#: admin/functions/functions.options.php:383
+msgid "Header ADS Link"
+msgstr ""
+
+#: admin/functions/functions.options.php:384
+msgid ""
+"You need to insert "
+"banner ulr. Only for "
+"Header Type 8"
+msgstr ""
+
+#: admin/functions/functions.options.php:389
+msgid "Upload Banner"
+msgstr ""
+
+#: admin/functions/functions.options.php:390
+msgid ""
+"Please upload your "
+"header banner. Only for "
+"Header Type 8. "
+"Recommended size 900x125"
+msgstr ""
+
+#: admin/functions/functions.options.php:397
+msgid "Logo option heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:400
+msgid "Logo options"
+msgstr ""
+
+#: admin/functions/functions.options.php:404
+msgid ""
+"Upload Standard Logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:405
+msgid ""
+"Please insert your logo."
+msgstr ""
+
+#: admin/functions/functions.options.php:411
+msgid "Retina Logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:418
+msgid ""
+"Upload Retina Logo (2x)"
+msgstr ""
+
+#: admin/functions/functions.options.php:419
+msgid ""
+"Note: You retina logo "
+"must be larger than 2x. "
+"Example: Main logo "
+"120x200 then Retina must "
+"be 240x400."
+msgstr ""
+
+#: admin/functions/functions.options.php:426
+msgid "Standard Logo Width"
+msgstr ""
+
+#: admin/functions/functions.options.php:427
+msgid ""
+"You need to insert Non "
+"retina logo width. "
+"Height auto"
+msgstr ""
+
+#: admin/functions/functions.options.php:434
+msgid ""
+"Favicon option heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:437
+msgid "Favicon options"
+msgstr ""
+
+#: admin/functions/functions.options.php:441
+msgid ""
+"Upload Standard Favicon"
+msgstr ""
+
+#: admin/functions/functions.options.php:442
+msgid ""
+"Please insert your "
+"favicon 16x16px or "
+"32x32px icon. You may "
+"use <a href=\"http://www."
+"favicon.cc/\" target="
+"\"_blank\">favicon.cc</"
+"a>. Please note that if "
+"you've already uploaded "
+"the Site Icon in the "
+"Theme Customizer "
+"(Appearance -> "
+"Customize), the settings "
+"from the theme options "
+"panel will be ignored."
+msgstr ""
+
+#: admin/functions/functions.options.php:448
+msgid "Retina Favicon"
+msgstr ""
+
+#: admin/functions/functions.options.php:455
+msgid ""
+"Favicon for iPhone "
+"(57x57)"
+msgstr ""
+
+#: admin/functions/functions.options.php:456
+msgid ""
+"Please upload your "
+"favicon 57x57px. Please "
+"note that if you've "
+"already uploaded the "
+"Site Icon in the Theme "
+"Customizer (Appearance -"
+"> Customize), the "
+"settings from the theme "
+"options panel will be "
+"ignored."
+msgstr ""
+
+#: admin/functions/functions.options.php:463
+msgid ""
+"Favicon for iPad (72x72)"
+msgstr ""
+
+#: admin/functions/functions.options.php:464
+msgid ""
+"Please upload your "
+"favicon 72x72px. Please "
+"note that if you've "
+"already uploaded the "
+"Site Icon in the Theme "
+"Customizer (Appearance -"
+"> Customize), the "
+"settings from the theme "
+"options panel will be "
+"ignored."
+msgstr ""
+
+#: admin/functions/functions.options.php:471
+msgid ""
+"Retina Favicon for "
+"iPhone (114x114)"
+msgstr ""
+
+#: admin/functions/functions.options.php:472
+msgid ""
+"Please upload your "
+"favicon 114x114px. "
+"Please note that if "
+"you've already uploaded "
+"the Site Icon in the "
+"Theme Customizer "
+"(Appearance -> "
+"Customize), the settings "
+"from the theme options "
+"panel will be ignored."
+msgstr ""
+
+#: admin/functions/functions.options.php:480
+#: admin/functions/functions.options.php:483
+msgid "Footer section"
+msgstr ""
+
+#: admin/functions/functions.options.php:487
+#: framework/metabox/page-options.php:69
+msgid "Prefooter Area"
+msgstr ""
+
+#: admin/functions/functions.options.php:495
+msgid "Footer Layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:496
+msgid ""
+"Choose Prefooter Area "
+"layout."
+msgstr ""
+
+#: admin/functions/functions.options.php:504
+msgid "Footer Section"
+msgstr ""
+
+#: admin/functions/functions.options.php:505
+msgid "show/hide"
+msgstr ""
+
+#: admin/functions/functions.options.php:518
+msgid "Copyright Text"
+msgstr ""
+
+#: admin/functions/functions.options.php:519
+msgid ""
+"Insert Copyright Text."
+msgstr ""
+
+#: admin/functions/functions.options.php:528
+msgid "Typography"
+msgstr ""
+
+#: admin/functions/functions.options.php:531
+#: admin/functions/functions.options.php:534
+msgid "Body"
+msgstr ""
+
+#: admin/functions/functions.options.php:538
+msgid "Body text font"
+msgstr ""
+
+#: admin/functions/functions.options.php:539
+msgid ""
+"Specify the body font "
+"properties"
+msgstr ""
+
+#: admin/functions/functions.options.php:550
+msgid ""
+"Headers font styling"
+msgstr ""
+
+#: admin/functions/functions.options.php:553
+msgid "Headlines"
+msgstr ""
+
+#: admin/functions/functions.options.php:557
+msgid "Heading Font Family"
+msgstr ""
+
+#: admin/functions/functions.options.php:564
+msgid ""
+"H1 - Specify Font "
+"Properties"
+msgstr ""
+
+#: admin/functions/functions.options.php:570
+msgid ""
+"H2 - Specify Font "
+"Properties"
+msgstr ""
+
+#: admin/functions/functions.options.php:576
+msgid ""
+"H3 - Specify Font "
+"Properties"
+msgstr ""
+
+#: admin/functions/functions.options.php:582
+msgid ""
+"H4 - Specify Font "
+"Properties"
+msgstr ""
+
+#: admin/functions/functions.options.php:588
+msgid ""
+"H5 - Specify Font "
+"Properties"
+msgstr ""
+
+#: admin/functions/functions.options.php:594
+msgid ""
+"H6 - Specify Font "
+"Properties"
+msgstr ""
+
+#: admin/functions/functions.options.php:600
+#: admin/functions/functions.options.php:603
+#: admin/functions/functions.options.php:607
+msgid "Google Font Weight"
+msgstr ""
+
+#: admin/functions/functions.options.php:608
+msgid ""
+"Some of Google font has "
+"narrow style or unqiue "
+"weights and you can "
+"define here your custom."
+msgstr ""
+
+#: admin/functions/functions.options.php:648
+msgid "Blog"
+msgstr ""
+
+#: admin/functions/functions.options.php:652
+#: admin/functions/functions.options.php:655
+#: admin/functions/functions.options.php:699
+#: admin/functions/functions.options.php:972
+#: admin/functions/functions.options.php:975
+msgid "Sidebar"
+msgstr ""
+
+#: admin/functions/functions.options.php:659
+#: admin/functions/functions.options.php:979
+msgid ""
+"Default Sidebar Layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:671
+msgid "Posts Style"
+msgstr ""
+
+#: admin/functions/functions.options.php:672
+msgid ""
+"Style posts for standard "
+"pages (standard blog "
+"page, category pages, "
+"archive)"
+msgstr ""
+
+#: admin/functions/functions.options.php:677
+#: admin/functions/functions.options.php:712
+#: framework/metabox/metaboxes.php:303
+#: framework/metabox/page-options.php:422
+msgid "Default"
+msgstr ""
+
+#: admin/functions/functions.options.php:678
+#: framework/metabox/page-options.php:307
+msgid "Left Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:679
+#: framework/metabox/page-options.php:310
+msgid "Chess"
+msgstr ""
+
+#: admin/functions/functions.options.php:680
+#: framework/metabox/page-options.php:311
+msgid "Grid Background"
+msgstr ""
+
+#: admin/functions/functions.options.php:681
+#: framework/metabox/page-options.php:312
+msgid "Masonry Background"
+msgstr ""
+
+#: admin/functions/functions.options.php:684
+msgid "Posts in Row"
+msgstr ""
+
+#: admin/functions/functions.options.php:685
+msgid ""
+"Posts in row for "
+"standard pages (standard "
+"blog page, category "
+"pages, archive). This "
+"setting only for Posts "
+"Styles: \"Grid Background"
+"\", \"Masonry Background"
+"\""
+msgstr ""
+
+#: admin/functions/functions.options.php:692
+#: admin/functions/functions.options.php:695
+msgid ""
+"Single Post Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:700
+msgid ""
+"Choose layout on single "
+"post view"
+msgstr ""
+
+#: admin/functions/functions.options.php:706
+msgid ""
+"Featured Image Style"
+msgstr ""
+
+#: admin/functions/functions.options.php:707
+msgid ""
+"Select the style of a "
+"single post page. "
+"featured image in full "
+"screen or standard"
+msgstr ""
+
+#: admin/functions/functions.options.php:713
+msgid "Full Width"
+msgstr ""
+
+#: admin/functions/functions.options.php:716
+msgid "Author info"
+msgstr ""
+
+#: admin/functions/functions.options.php:717
+msgid ""
+"Enable author info on "
+"single post view?"
+msgstr ""
+
+#: admin/functions/functions.options.php:722
+msgid ""
+"Single Post Navigation"
+msgstr ""
+
+#: admin/functions/functions.options.php:723
+msgid ""
+"Enable navigation on "
+"single post view?"
+msgstr ""
+
+#: admin/functions/functions.options.php:728
+#: admin/functions/functions.options.php:859
+msgid "Related Posts"
+msgstr ""
+
+#: admin/functions/functions.options.php:729
+#: admin/functions/functions.options.php:860
+#: admin/functions/functions.options.php:965
+msgid ""
+"Enable related posts on "
+"single post view?"
+msgstr ""
+
+#: admin/functions/functions.options.php:735
+msgid "Related Posts Style"
+msgstr ""
+
+#: admin/functions/functions.options.php:736
+msgid ""
+"choose style to "
+"displaying related posts"
+msgstr ""
+
+#: admin/functions/functions.options.php:741
+#: framework/metabox/page-options.php:188
+msgid "Carousel"
+msgstr ""
+
+#: admin/functions/functions.options.php:741
+#: framework/metabox/page-options.php:189
+#: framework/metabox/page-options.php:461
+msgid "Grid"
+msgstr ""
+
+#: admin/functions/functions.options.php:744
+#: admin/functions/functions.options.php:867
+msgid "Instagram Type"
+msgstr ""
+
+#: admin/functions/functions.options.php:745
+#: admin/functions/functions.options.php:868
+#: framework/metabox/page-options.php:58
+msgid ""
+"select the type of "
+"Instagram Block for this "
+"page."
+msgstr ""
+
+#: admin/functions/functions.options.php:750
+#: admin/functions/functions.options.php:873
+#: framework/metabox/page-options.php:62
+#: framework/metabox/page-options.php:100
+msgid "Type 1"
+msgstr ""
+
+#: admin/functions/functions.options.php:751
+#: admin/functions/functions.options.php:874
+#: framework/metabox/page-options.php:63
+#: framework/metabox/page-options.php:101
+msgid "Type 2"
+msgstr ""
+
+#: admin/functions/functions.options.php:752
+#: admin/functions/functions.options.php:875
+#: framework/metabox/page-options.php:64
+#: framework/metabox/page-options.php:102
+msgid "Type 3"
+msgstr ""
+
+#: admin/functions/functions.options.php:756
+msgid ""
+"Enable Prefooter Area on "
+"single post view?"
+msgstr ""
+
+#: admin/functions/functions.options.php:766
+#: admin/functions/functions.options.php:882
+msgid ""
+"Social sharing box icons"
+msgstr ""
+
+#: admin/functions/functions.options.php:770
+msgid ""
+"Enable social share-box "
+"on single post view?"
+msgstr ""
+
+#: admin/functions/functions.options.php:776
+#: admin/functions/functions.options.php:892
+msgid ""
+"Enable Facebook in "
+"social sharing box"
+msgstr ""
+
+#: admin/functions/functions.options.php:777
+#: admin/functions/functions.options.php:893
+msgid ""
+"Check to enable Facebook "
+"in social sharing box"
+msgstr ""
+
+#: admin/functions/functions.options.php:783
+#: admin/functions/functions.options.php:899
+msgid ""
+"Enable Twitter in social "
+"sharing box"
+msgstr ""
+
+#: admin/functions/functions.options.php:784
+#: admin/functions/functions.options.php:900
+msgid ""
+"Check to enable Twitter "
+"in social sharing box"
+msgstr ""
+
+#: admin/functions/functions.options.php:790
+#: admin/functions/functions.options.php:906
+msgid ""
+"Enable LinkedIn in "
+"Social sharing box"
+msgstr ""
+
+#: admin/functions/functions.options.php:791
+#: admin/functions/functions.options.php:907
+msgid ""
+"Check to enable LinkedIn "
+"in social sharing box"
+msgstr ""
+
+#: admin/functions/functions.options.php:797
+#: admin/functions/functions.options.php:913
+msgid ""
+"Enable Reddit in social "
+"sharing box"
+msgstr ""
+
+#: admin/functions/functions.options.php:798
+#: admin/functions/functions.options.php:914
+msgid ""
+"Check to enable Reddit "
+"in social sharing box"
+msgstr ""
+
+#: admin/functions/functions.options.php:804
+#: admin/functions/functions.options.php:920
+msgid ""
+"Enable Digg in social "
+"sharing box"
+msgstr ""
+
+#: admin/functions/functions.options.php:805
+#: admin/functions/functions.options.php:921
+msgid ""
+"Check to enable Digg in "
+"social sharing box"
+msgstr ""
+
+#: admin/functions/functions.options.php:811
+#: admin/functions/functions.options.php:927
+msgid ""
+"Enable Delicious in "
+"social sharing box"
+msgstr ""
+
+#: admin/functions/functions.options.php:812
+#: admin/functions/functions.options.php:928
+msgid ""
+"Check to enable "
+"Delicious in social "
+"sharing box"
+msgstr ""
+
+#: admin/functions/functions.options.php:818
+#: admin/functions/functions.options.php:934
+msgid ""
+"Enable Google plus in "
+"social sharing box"
+msgstr ""
+
+#: admin/functions/functions.options.php:819
+#: admin/functions/functions.options.php:935
+msgid ""
+"Check to enable Google "
+"plus in social sharing "
+"box"
+msgstr ""
+
+#: admin/functions/functions.options.php:825
+#: admin/functions/functions.options.php:941
+msgid ""
+"Enable Pinterest in "
+"social sharing box"
+msgstr ""
+
+#: admin/functions/functions.options.php:826
+#: admin/functions/functions.options.php:942
+msgid ""
+"Check to enable "
+"Pinterest in social "
+"sharing box"
+msgstr ""
+
+#: admin/functions/functions.options.php:832
+#: admin/functions/functions.options.php:948
+msgid ""
+"Enable Tumblr in social "
+"sharing box"
+msgstr ""
+
+#: admin/functions/functions.options.php:833
+#: admin/functions/functions.options.php:949
+msgid ""
+"Check to enable Tumblr "
+"in social sharing box"
+msgstr ""
+
+#: admin/functions/functions.options.php:843
+msgid "Portfolio"
+msgstr ""
+
+#: admin/functions/functions.options.php:846
+#: admin/functions/functions.options.php:849
+msgid ""
+"Portfolio Single Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:853
+msgid ""
+"Portfolio Single "
+"Navigation"
+msgstr ""
+
+#: admin/functions/functions.options.php:854
+msgid ""
+"Enable navigation on "
+"portfolio single view?"
+msgstr ""
+
+#: admin/functions/functions.options.php:886
+msgid ""
+"Enable social share-box "
+"on portfolio single view?"
+msgstr ""
+
+#: admin/functions/functions.options.php:960
+msgid "Shop"
+msgstr ""
+
+#: admin/functions/functions.options.php:964
+msgid "Mini Cart"
+msgstr ""
+
+#: admin/functions/functions.options.php:987
+#: admin/functions/functions.options.php:990
+msgid "Products List"
+msgstr ""
+
+#: admin/functions/functions.options.php:994
+msgid "Products per Page"
+msgstr ""
+
+#: admin/functions/functions.options.php:999
+msgid "Shop Title"
+msgstr ""
+
+#: admin/functions/functions.options.php:1004
+msgid ""
+"Page Title Background"
+msgstr ""
+
+#: admin/functions/functions.options.php:1005
+msgid ""
+"Upload a picture to be "
+"displayed after the menu "
+"on the full width of the "
+"screen"
+msgstr ""
+
+#: admin/functions/functions.options.php:1017
+msgid ""
+"Social Icons heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:1020
+msgid ""
+"This will displayed on "
+"Header and Footer"
+msgstr ""
+
+#: admin/functions/functions.options.php:1024
+msgid "Facebook ID"
+msgstr ""
+
+#: admin/functions/functions.options.php:1025
+msgid ""
+"Enter the Facebook ID."
+msgstr ""
+
+#: admin/functions/functions.options.php:1030
+msgid "Flickr Username"
+msgstr ""
+
+#: admin/functions/functions.options.php:1031
+msgid ""
+"Enter the Flickr "
+"Username."
+msgstr ""
+
+#: admin/functions/functions.options.php:1036
+msgid "Google + ID"
+msgstr ""
+
+#: admin/functions/functions.options.php:1037
+msgid ""
+"Enter full url Google +"
+msgstr ""
+
+#: admin/functions/functions.options.php:1042
+msgid "Twitter Username"
+msgstr ""
+
+#: admin/functions/functions.options.php:1043
+msgid ""
+"Enter the Twitter "
+"Username."
+msgstr ""
+
+#: admin/functions/functions.options.php:1048
+msgid "Instagram Username"
+msgstr ""
+
+#: admin/functions/functions.options.php:1049
+msgid ""
+"Enter the Instagram "
+"Username."
+msgstr ""
+
+#: admin/functions/functions.options.php:1054
+msgid "Pinterest Username"
+msgstr ""
+
+#: admin/functions/functions.options.php:1055
+msgid ""
+"Enter the Pinterest "
+"Username."
+msgstr ""
+
+#: admin/functions/functions.options.php:1060
+msgid "Skype Username"
+msgstr ""
+
+#: admin/functions/functions.options.php:1061
+msgid ""
+"Enter the Skype Username."
+msgstr ""
+
+#: admin/functions/functions.options.php:1066
+msgid "Youtube Username"
+msgstr ""
+
+#: admin/functions/functions.options.php:1067
+msgid ""
+"Enter the Youtube "
+"Username."
+msgstr ""
+
+#: admin/functions/functions.options.php:1072
+msgid "Dribbble Username"
+msgstr ""
+
+#: admin/functions/functions.options.php:1073
+msgid ""
+"Enter the Dribbble "
+"Username."
+msgstr ""
+
+#: admin/functions/functions.options.php:1078
+msgid "Linkedin URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:1079
+msgid ""
+"Enter the Linkedin URL."
+msgstr ""
+
+#: admin/functions/functions.options.php:1084
+msgid "RSS URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:1085
+msgid "Enter the RSS URL."
+msgstr ""
+
+#: admin/functions/functions.options.php:1090
+msgid "VK URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:1091
+msgid ""
+"Enter the VK URL "
+"( without reference "
+"http://vk.com/ )."
+msgstr ""
+
+#: admin/functions/functions.options.php:1096
+msgid "Tumblr URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:1097
+msgid ""
+"Enter the Tumblr URL "
+"( full url )."
+msgstr ""
+
+#: admin/functions/functions.options.php:1102
+msgid "Vimeo URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:1103
+msgid ""
+"Enter the Vimeo URL "
+"( full url )."
+msgstr ""
+
+#: admin/functions/functions.options.php:1111
+#: admin/functions/functions.options.php:1114
+#: admin/functions/functions.options.php:1120
+msgid "Instagram"
+msgstr ""
+
+#: admin/functions/functions.options.php:1117
+msgid "Instagram Section"
+msgstr ""
+
+#: admin/functions/functions.options.php:1121
+msgid ""
+"Enable instagram on "
+"footer of the site?"
+msgstr ""
+
+#: admin/functions/functions.options.php:1126
+msgid ""
+"Instagram Block Title"
+msgstr ""
+
+#: admin/functions/functions.options.php:1127
+msgid ""
+"Only for Type 1 and Type "
+"2"
+msgstr ""
+
+#: admin/functions/functions.options.php:1134
+msgid "Only for Type 1"
+msgstr ""
+
+#: admin/functions/functions.options.php:1140
+msgid "Account Link"
+msgstr ""
+
+#: admin/functions/functions.options.php:1147
+msgid "User Id"
+msgstr ""
+
+#: admin/functions/functions.options.php:1148
+msgid ""
+"Required. Your API "
+"client id from "
+"Instagram. Instructions "
+"on how to generate your "
+"account information <a "
+"href=\"http://lab."
+"strategio.fr/instagram-"
+"id.php?lang=en\" target="
+"\"_blank\">link</a>"
+msgstr ""
+
+#: admin/functions/functions.options.php:1154
+msgid "Access Token"
+msgstr ""
+
+#: admin/functions/functions.options.php:1155
+msgid ""
+"A valid oAuth token. Can "
+"be used in place of a "
+"client ID. <a href="
+"\"http://instagram."
+"pixelunion.net/\" target="
+"\"_blank\">link</a>"
+msgstr ""
+
+#: admin/functions/functions.options.php:1164
+msgid "HTML blocks"
+msgstr ""
+
+#: admin/functions/functions.options.php:1167
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/functions/functions.options.php:1168
+msgid ""
+"Add custom CSS code here"
+msgstr ""
+
+#: admin/functions/functions.options.php:1175
+msgid "Backup options"
+msgstr ""
+
+#: admin/functions/functions.options.php:1179
+msgid ""
+"Backup and restore "
+"options"
+msgstr ""
+
+#: admin/functions/functions.options.php:1183
+msgid ""
+"You can backup your "
+"current options, and "
+"then restore it back at "
+"a later time. This is "
+"useful if you want to "
+"experiment on the "
+"options but would like "
+"to keep the old settings "
+"in case you need it back."
+msgstr ""
+
+#: admin/functions/functions.options.php:1185
+msgid ""
+"Transfer theme options "
+"data"
+msgstr ""
+
+#: admin/functions/functions.options.php:1189
+msgid ""
+"You can tranfer the "
+"saved options data "
+"between different "
+"installs by copying the "
+"text inside the text "
+"box. To import data from "
+"another install, replace "
+"the data in the text box "
+"with the one from "
+"another install and "
+"click \"import options\"."
+msgstr ""
+
+#: archive.php:35
+msgid "DAILY ARCHIVES "
+msgstr ""
+
+#: archive.php:36
+#: archive.php:40
+#: archive.php:44
+#: category.php:32
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: archive.php:39
+msgid "MONTHLY ARCHIVES "
+msgstr ""
+
+#: archive.php:40
+msgctxt ""
+"monthly archives date "
+"format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:43
+msgid "YEARLY ARCHIVES "
+msgstr ""
+
+#: archive.php:44
+msgctxt ""
+"yearly archives date "
+"format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:47
+msgid "ARCHIVES"
+msgstr ""
+
+#: author.php:25
+#: page-authors-list.php:66
+msgid "articles"
+msgstr ""
+
+#: author.php:64
+msgid "Author Posts"
+msgstr ""
+
+#: comments.php:8
+msgid ""
+"This post is password "
+"protected. Enter the "
+"password to view "
+"comments."
+msgstr ""
+
+#: comments.php:18
+#: comments.php:22
+msgid "Comments"
+msgstr ""
+
+#: comments.php:21
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:52
+msgid ""
+"Comments are closed."
+msgstr ""
+
+#: comments.php:68
+msgid "Name *"
+msgstr ""
+
+#: comments.php:69
+msgid "E-mail *"
+msgstr ""
+
+#: comments.php:75
+msgid "Leave A Comment"
+msgstr ""
+
+#: comments.php:76
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:78
+msgid "Post comment"
+msgstr ""
+
+#: footer.php:46
+msgid "Back top"
+msgstr ""
+
+#: framework/categories-images/categories-images.php:49
+#: framework/categories-images/categories-images.php:70
+#: framework/categories-images/categories-images.php:217
+msgid "Image"
+msgstr ""
+
+#: framework/categories-images/categories-images.php:52
+#: framework/categories-images/categories-images.php:72
+#: framework/categories-images/categories-images.php:199
+msgid "Upload/Add image"
+msgstr ""
+
+#: framework/categories-images/categories-images.php:73
+#: framework/categories-images/categories-images.php:200
+msgid "Remove image"
+msgstr ""
+
+#: framework/categories-images/categories-images.php:235
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/categories-images/categories-images.php:255
+#: framework/categories-images/categories-images.php:262
+msgid ""
+"Categories Images "
+"settings"
+msgstr ""
+
+#: framework/categories-images/categories-images.php:255
+#: framework/categories-images/categories-images.php:292
+msgid "Categories Images"
+msgstr ""
+
+#: framework/categories-images/categories-images.php:263
+msgid "Excluded Taxonomies"
+msgstr ""
+
+#: framework/categories-images/categories-images.php:268
+msgid ""
+"Please select the "
+"taxonomies you want to "
+"exclude it from "
+"Categories Images plugin"
+msgstr ""
+
+#: framework/categories-images/categories-images.php:288
+msgid ""
+"You do not have "
+"sufficient permissions "
+"to access this page."
+msgstr ""
+
+#: framework/importer/parsers.php:42
+#: framework/importer/parsers.php:72
+#: framework/importer/parsers.php:80
+msgid ""
+"There was an error when "
+"reading this WXR file"
+msgstr ""
+
+#: framework/importer/parsers.php:43
+msgid ""
+"Details are shown above. "
+"The importer will now "
+"try again with a "
+"different parser..."
+msgstr ""
+
+#: framework/importer/parsers.php:84
+#: framework/importer/parsers.php:89
+#: framework/importer/parsers.php:279
+#: framework/importer/parsers.php:468
+msgid ""
+"This does not appear to "
+"be a WXR file, missing/"
+"invalid WXR version "
+"number"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:134
+#: framework/importer/wordpress-importer.php:143
+#: framework/importer/wordpress-importer.php:194
+#: framework/importer/wordpress-importer.php:198
+#: framework/importer/wordpress-importer.php:207
+msgid ""
+"Sorry, there has been an "
+"error."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:135
+msgid ""
+"The file does not exist, "
+"please try again."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:179
+msgid ""
+"Remember to update the "
+"passwords and roles of "
+"imported users."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could "
+"not be found at <code>"
+"%s</code>. It is likely "
+"that this was caused by "
+"a permissions problem."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version "
+"%s) may not be supported "
+"by this version of the "
+"importer. Please "
+"consider updating."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author "
+"%s. Their posts will be "
+"attributed to the "
+"current user."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for "
+"you to edit and save the "
+"imported content, you "
+"may want to reassign the "
+"author of the imported "
+"item to an existing user "
+"of this site. For "
+"example, you may want to "
+"import all the entries "
+"as <code>admin</code>s "
+"entries."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created "
+"by WordPress, a new "
+"password will be "
+"randomly generated and "
+"the new user&#8217;s "
+"role will be set as %s. "
+"Manually changing the "
+"new user&#8217;s details "
+"will be necessary."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:282
+msgid ""
+"Download and import file "
+"attachments"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:310
+msgid ""
+"or create new user with "
+"login name:"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:321
+msgid ""
+"assign posts to an "
+"existing user:"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:323
+msgid ""
+"or assign posts to an "
+"existing user:"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new "
+"user for %s. Their posts "
+"will be attributed to "
+"the current user."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:425
+#, php-format
+msgid ""
+"Failed to import "
+"category %s"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:465
+#, php-format
+msgid ""
+"Failed to import post "
+"tag %s"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:511
+#: framework/importer/wordpress-importer.php:652
+#, php-format
+msgid ""
+"Failed to import %s %s"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:537
+#, php-format
+msgid ""
+"Failed to import &#8220;"
+"%s&#8221;: Invalid post "
+"type %s"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:559
+#, php-format
+msgid ""
+"%s &#8220;%s&#8221; "
+"already exists."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:618
+#, php-format
+msgid ""
+"Failed to import %s "
+"&#8220;%s&#8221;"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:783
+msgid ""
+"Menu item skipped due to "
+"missing menu slug"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:790
+#, php-format
+msgid ""
+"Menu item skipped due to "
+"invalid menu slug: %s"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:853
+msgid ""
+"Fetching attachments is "
+"not enabled"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:910
+msgid ""
+"Remote server did not "
+"respond"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:916
+#, php-format
+msgid ""
+"Remote server returned "
+"error response %1$d %2$s"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:923
+msgid ""
+"Remote file is incorrect "
+"size"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:928
+msgid ""
+"Zero size file downloaded"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:934
+#, php-format
+msgid ""
+"Remote file is too "
+"large, limit is %s"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this "
+"importer is available. "
+"Please update to version "
+"%s to ensure "
+"compatibility with newer "
+"export files."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your "
+"WordPress eXtended RSS "
+"(WXR) file and we&#8217;"
+"ll import the posts, "
+"pages, comments, custom "
+"fields, categories, and "
+"tags into this site."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:1056
+msgid ""
+"Choose a WXR (.xml) file "
+"to upload, then click "
+"Upload file and import."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:1130
+msgid ""
+"Import posts, pages, "
+"comments, custom fields, "
+"categories, and tags "
+"from a WordPress export "
+"file."
+msgstr ""
+
+#: framework/megamenu.php:171
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: framework/megamenu.php:175
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/megamenu.php:188
+msgid "sub item"
+msgstr ""
+
+#: framework/megamenu.php:203
+msgid "Move up"
+msgstr ""
+
+#: framework/megamenu.php:216
+msgid "Move down"
+msgstr ""
+
+#: framework/megamenu.php:218
+#: framework/megamenu.php:220
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/megamenu.php:229
+msgid "URL"
+msgstr ""
+
+#: framework/megamenu.php:236
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/megamenu.php:242
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/megamenu.php:248
+msgid "Mega Menu"
+msgstr ""
+
+#: framework/megamenu.php:254
+msgid ""
+"Make this item Mega Menu?"
+msgstr ""
+
+#: framework/megamenu.php:261
+msgid ""
+"Open link in a new "
+"window/tab"
+msgstr ""
+
+#: framework/megamenu.php:266
+msgid ""
+"CSS Classes (optional)"
+msgstr ""
+
+#: framework/megamenu.php:272
+msgid ""
+"Link Relationship (XFN)"
+msgstr ""
+
+#: framework/megamenu.php:280
+msgid ""
+"The description will be "
+"displayed in the menu if "
+"the current theme "
+"supports it."
+msgstr ""
+
+#: framework/megamenu.php:286
+msgid "Move"
+msgstr ""
+
+#: framework/megamenu.php:287
+msgid "Up one"
+msgstr ""
+
+#: framework/megamenu.php:288
+msgid "Down one"
+msgstr ""
+
+#: framework/megamenu.php:291
+msgid "To the top"
+msgstr ""
+
+#: framework/megamenu.php:298
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: framework/megamenu.php:311
+msgid "Remove"
+msgstr ""
+
+#: framework/megamenu.php:312
+msgid "Cancel"
+msgstr ""
+
+#: framework/metabox/metaboxes.php:18
+msgid ""
+"Create Featured Gallery"
+msgstr ""
+
+#: framework/metabox/metaboxes.php:19
+msgid ""
+"Edit Featured Gallery"
+msgstr ""
+
+#: framework/metabox/metaboxes.php:20
+msgid ""
+"Save Featured Gallery"
+msgstr ""
+
+#: framework/metabox/metaboxes.php:21
+msgid "Saving..."
+msgstr ""
+
+#: framework/metabox/metaboxes.php:124
+msgid "Insert image"
+msgstr ""
+
+#: framework/metabox/metaboxes.php:239
+msgid "Edit Gallery"
+msgstr ""
+
+#: framework/metabox/metaboxes.php:239
+msgid "Upload Images"
+msgstr ""
+
+#: framework/metabox/metaboxes.php:300
+#, php-format
+msgid ""
+"No menus have been "
+"created yet. <a href=\"%s"
+"\">Create some</a>."
+msgstr ""
+
+#: framework/metabox/page-options.php:9
+msgid "January"
+msgstr ""
+
+#: framework/metabox/page-options.php:9
+msgid "February"
+msgstr ""
+
+#: framework/metabox/page-options.php:9
+msgid "March"
+msgstr ""
+
+#: framework/metabox/page-options.php:10
+msgid "April"
+msgstr ""
+
+#: framework/metabox/page-options.php:10
+msgid "May"
+msgstr ""
+
+#: framework/metabox/page-options.php:10
+msgid "June"
+msgstr ""
+
+#: framework/metabox/page-options.php:11
+msgid "July"
+msgstr ""
+
+#: framework/metabox/page-options.php:11
+msgid "August"
+msgstr ""
+
+#: framework/metabox/page-options.php:11
+msgid "Septempber"
+msgstr ""
+
+#: framework/metabox/page-options.php:12
+msgid "October"
+msgstr ""
+
+#: framework/metabox/page-options.php:12
+msgid "November"
+msgstr ""
+
+#: framework/metabox/page-options.php:12
+msgid "December"
+msgstr ""
+
+#: framework/metabox/page-options.php:31
+msgid "All categories"
+msgstr ""
+
+#: framework/metabox/page-options.php:45
+msgid "Sidebar layout:"
+msgstr ""
+
+#: framework/metabox/page-options.php:46
+msgid ""
+"only boxed layout style"
+msgstr ""
+
+#: framework/metabox/page-options.php:50
+msgid "Without sidebar"
+msgstr ""
+
+#: framework/metabox/page-options.php:51
+msgid "Left sidebar"
+msgstr ""
+
+#: framework/metabox/page-options.php:52
+msgid "Right sidebar"
+msgstr ""
+
+#: framework/metabox/page-options.php:57
+msgid "Instagram Type:"
+msgstr ""
+
+#: framework/metabox/page-options.php:74
+#: framework/metabox/page-options.php:89
+#: framework/metabox/page-options.php:130
+#: framework/metabox/page-options.php:177
+#: framework/metabox/page-options.php:218
+#: framework/metabox/page-options.php:285
+msgid "Disabled"
+msgstr ""
+
+#: framework/metabox/page-options.php:75
+#: framework/metabox/page-options.php:90
+#: framework/metabox/page-options.php:131
+#: framework/metabox/page-options.php:178
+#: framework/metabox/page-options.php:219
+#: framework/metabox/page-options.php:286
+msgid "Enabled"
+msgstr ""
+
+#: framework/metabox/page-options.php:84
+msgid "Top Slider:"
+msgstr ""
+
+#: framework/metabox/page-options.php:95
+msgid "Top Slider Style:"
+msgstr ""
+
+#: framework/metabox/page-options.php:103
+msgid "Type 4"
+msgstr ""
+
+#: framework/metabox/page-options.php:104
+msgid "Type 5"
+msgstr ""
+
+#: framework/metabox/page-options.php:105
+msgid "Type 6"
+msgstr ""
+
+#: framework/metabox/page-options.php:110
+msgid ""
+"Top Slider Categories:"
+msgstr ""
+
+#: framework/metabox/page-options.php:117
+msgid "Slider Posts Count:"
+msgstr ""
+
+#: framework/metabox/page-options.php:125
+msgid ""
+"Three Posts after slider:"
+msgstr ""
+
+#: framework/metabox/page-options.php:136
+msgid ""
+"Three Posts Categories:"
+msgstr ""
+
+#: framework/metabox/page-options.php:143
+msgid ""
+"Three Posts Orderby:"
+msgstr ""
+
+#: framework/metabox/page-options.php:148
+#: framework/metabox/page-options.php:272
+#: framework/metabox/page-options.php:350
+#: framework/metabox/page-options.php:363
+#: framework/widgets/widget-posts.php:161
+msgid "Random"
+msgstr ""
+
+#: framework/metabox/page-options.php:149
+#: framework/metabox/page-options.php:273
+#: framework/metabox/page-options.php:351
+#: framework/metabox/page-options.php:364
+#: framework/widgets/widget-posts.php:162
+msgid "Date"
+msgstr ""
+
+#: framework/metabox/page-options.php:150
+#: framework/metabox/page-options.php:274
+#: framework/metabox/page-options.php:352
+#: framework/metabox/page-options.php:365
+#: framework/widgets/widget-flickr.php:63
+#: framework/widgets/widget-posts.php:163
+#: framework/widgets/widget-twitter.php:46
+msgid "Title"
+msgstr ""
+
+#: framework/metabox/page-options.php:151
+#: framework/metabox/page-options.php:275
+#: framework/metabox/page-options.php:353
+#: framework/metabox/page-options.php:366
+msgid "Comment Count"
+msgstr ""
+
+#: framework/metabox/page-options.php:157
+msgid "First Banner"
+msgstr ""
+
+#: framework/metabox/page-options.php:164
+msgid "Second Banner"
+msgstr ""
+
+#: framework/metabox/page-options.php:172
+msgid "Categories List"
+msgstr ""
+
+#: framework/metabox/page-options.php:183
+msgid "Categories Style"
+msgstr ""
+
+#: framework/metabox/page-options.php:194
+msgid ""
+"Categories filter by ids"
+msgstr ""
+
+#: framework/metabox/page-options.php:201
+msgid ""
+"Categories List Position"
+msgstr ""
+
+#: framework/metabox/page-options.php:213
+msgid "Posts Carousel"
+msgstr ""
+
+#: framework/metabox/page-options.php:224
+msgid ""
+"Posts Carousel Position"
+msgstr ""
+
+#: framework/metabox/page-options.php:235
+msgid ""
+"Posts Carousel style"
+msgstr ""
+
+#: framework/metabox/page-options.php:240
+#: framework/metabox/page-options.php:308
+msgid "Top Image"
+msgstr ""
+
+#: framework/metabox/page-options.php:241
+msgid "Background Image"
+msgstr ""
+
+#: framework/metabox/page-options.php:246
+msgid ""
+"Posts Carousel Title"
+msgstr ""
+
+#: framework/metabox/page-options.php:253
+msgid ""
+"Posts Carousel "
+"Categories:"
+msgstr ""
+
+#: framework/metabox/page-options.php:260
+msgid ""
+"Posts Carousel Count:"
+msgstr ""
+
+#: framework/metabox/page-options.php:267
+msgid ""
+"Posts carousel Orderby:"
+msgstr ""
+
+#: framework/metabox/page-options.php:281
+msgid "Posts List"
+msgstr ""
+
+#: framework/metabox/page-options.php:292
+msgid "Posts Layout:"
+msgstr ""
+
+#: framework/metabox/page-options.php:296
+#: framework/metabox/page-options.php:449
+msgid "Wide"
+msgstr ""
+
+#: framework/metabox/page-options.php:297
+#: framework/metabox/page-options.php:450
+msgid "Boxed"
+msgstr ""
+
+#: framework/metabox/page-options.php:303
+msgid "Posts Style:"
+msgstr ""
+
+#: framework/metabox/page-options.php:309
+msgid "Masonry Top Image"
+msgstr ""
+
+#: framework/metabox/page-options.php:313
+msgid "Line Background"
+msgstr ""
+
+#: framework/metabox/page-options.php:314
+msgid "Line with Thumbnail"
+msgstr ""
+
+#: framework/metabox/page-options.php:315
+msgid "Full Width Image"
+msgstr ""
+
+#: framework/metabox/page-options.php:316
+msgid "Metro Style"
+msgstr ""
+
+#: framework/metabox/page-options.php:317
+msgid "Magazine Style"
+msgstr ""
+
+#: framework/metabox/page-options.php:323
+msgid "Posts Blocks:"
+msgstr ""
+
+#: framework/metabox/page-options.php:331
+msgid "Posts Categories:"
+msgstr ""
+
+#: framework/metabox/page-options.php:338
+msgid ""
+"Posts Categories 2nd "
+"block:"
+msgstr ""
+
+#: framework/metabox/page-options.php:345
+msgid "Orderby:"
+msgstr ""
+
+#: framework/metabox/page-options.php:358
+msgid "Orderby 2nd block:"
+msgstr ""
+
+#: framework/metabox/page-options.php:371
+msgid "Posts per Page:"
+msgstr ""
+
+#: framework/metabox/page-options.php:378
+msgid ""
+"Posts per Page 2nd block:"
+msgstr ""
+
+#: framework/metabox/page-options.php:385
+msgid "Posts in Row:"
+msgstr ""
+
+#: framework/metabox/page-options.php:393
+msgid "Padding for Post:"
+msgstr ""
+
+#: framework/metabox/page-options.php:394
+msgid ""
+"specify the amount of "
+"padding around the edges "
+"of the post (only > 0)"
+msgstr ""
+
+#: framework/metabox/page-options.php:400
+#: framework/metabox/page-options.php:500
+msgid "Display Pagination?"
+msgstr ""
+
+#: framework/metabox/page-options.php:404
+#: framework/metabox/page-options.php:504
+msgid "Simple pagination"
+msgstr ""
+
+#: framework/metabox/page-options.php:405
+#: framework/metabox/page-options.php:505
+msgid "Infinite scroll"
+msgstr ""
+
+#: framework/metabox/page-options.php:417
+msgid "Metro Item Sizing"
+msgstr ""
+
+#: framework/metabox/page-options.php:418
+msgid ""
+"This will only be used "
+"if you choose to display "
+"your Blog Posts in the "
+"\"Metro Style\" in "
+"element settings"
+msgstr ""
+
+#: framework/metabox/page-options.php:423
+msgid "Double Width"
+msgstr ""
+
+#: framework/metabox/page-options.php:424
+msgid "Double Height"
+msgstr ""
+
+#: framework/metabox/page-options.php:425
+msgid ""
+"Double Width and Height"
+msgstr ""
+
+#: framework/metabox/page-options.php:445
+msgid "Portfolio Layout:"
+msgstr ""
+
+#: framework/metabox/page-options.php:456
+msgid "Portfolio Style:"
+msgstr ""
+
+#: framework/metabox/page-options.php:460
+msgid "Masonry"
+msgstr ""
+
+#: framework/metabox/page-options.php:467
+msgid "Portfolio Filter:"
+msgstr ""
+
+#: framework/metabox/page-options.php:471
+msgid "show"
+msgstr ""
+
+#: framework/metabox/page-options.php:472
+msgid "hide"
+msgstr ""
+
+#: framework/metabox/page-options.php:478
+msgid ""
+"Portfolio Categories:"
+msgstr ""
+
+#: framework/metabox/page-options.php:485
+msgid "Items per Page:"
+msgstr ""
+
+#: framework/metabox/page-options.php:492
+msgid "Items in Row:"
+msgstr ""
+
+#: framework/metabox/page-options.php:514
+msgid "Single Layout:"
+msgstr ""
+
+#: framework/metabox/page-options.php:519
+msgid "Layout Full"
+msgstr ""
+
+#: framework/metabox/page-options.php:520
+msgid "Layout Half"
+msgstr ""
+
+#: framework/metabox/page-options.php:525
+#: single-portfolio.php:77
+msgid "Client:"
+msgstr ""
+
+#: framework/metabox/page-options.php:531
+#: single-portfolio.php:99
+msgid "Project URL:"
+msgstr ""
+
+#: framework/metabox/page-options.php:540
+#: framework/metabox/post-format.php:5
+msgid "Upload images"
+msgstr ""
+
+#: framework/metabox/page-options.php:541
+#: framework/metabox/post-format.php:6
+msgid ""
+"Select the images that "
+"should be upload to this "
+"gallery"
+msgstr ""
+
+#: framework/metabox/page-options.php:546
+msgid "Carousel Gallery"
+msgstr ""
+
+#: framework/metabox/page-options.php:547
+msgid ""
+"Enable this to show "
+"images in carousel"
+msgstr ""
+
+#: framework/metabox/page-options.php:555
+#: framework/metabox/page-options.php:565
+#: framework/metabox/post-format.php:14
+msgid "Embeded Code"
+msgstr ""
+
+#: framework/metabox/page-options.php:556
+#: framework/metabox/page-options.php:566
+msgid ""
+"If you're not using self "
+"hosted video then you "
+"can include embeded code "
+"here."
+msgstr ""
+
+#: framework/metabox/page-options.php:577
+msgid "Years:"
+msgstr ""
+
+#: framework/metabox/page-options.php:585
+msgid "Months:"
+msgstr ""
+
+#: framework/metabox/page-options.php:593
+msgid "Days:"
+msgstr ""
+
+#: framework/metabox/page-options.php:601
+msgid "Hours:"
+msgstr ""
+
+#: framework/metabox/page-options.php:609
+msgid "Upload image:"
+msgstr ""
+
+#: framework/metabox/page-options.php:616
+msgid ""
+"Choose Background Color:"
+msgstr ""
+
+#: framework/metabox/page-options.php:623
+msgid ""
+"Subscribe to Newsletter:"
+msgstr ""
+
+#: framework/metabox/page-options.php:628
+#: framework/metabox/page-options.php:639
+msgid "Hide"
+msgstr ""
+
+#: framework/metabox/page-options.php:629
+#: framework/metabox/page-options.php:640
+msgid "Show"
+msgstr ""
+
+#: framework/metabox/page-options.php:634
+msgid "Social Links:"
+msgstr ""
+
+#: framework/metabox/page-options.php:635
+msgid ""
+"Links to social services "
+"will be taken from the "
+"Theme Options"
+msgstr ""
+
+#: framework/metabox/page-options.php:647
+msgid "Custom Layout"
+msgstr ""
+
+#: framework/metabox/page-options.php:648
+msgid "Page Settings"
+msgstr ""
+
+#: framework/metabox/page-options.php:650
+msgid "Post Settings"
+msgstr ""
+
+#: framework/metabox/page-options.php:652
+msgid ""
+"Portfolio Page Settings"
+msgstr ""
+
+#: framework/metabox/page-options.php:653
+msgid "Portfolio Settings"
+msgstr ""
+
+#: framework/metabox/page-options.php:654
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: framework/metabox/page-options.php:655
+msgid "Portfolio Video"
+msgstr ""
+
+#: framework/metabox/page-options.php:656
+msgid "Portfolio Audio"
+msgstr ""
+
+#: framework/metabox/page-options.php:658
+msgid ""
+"Coming Soon Page Settings"
+msgstr ""
+
+#: framework/metabox/post-format.php:15
+msgid "The embed code"
+msgstr ""
+
+#: framework/metabox/post-format.php:24
+msgid "YouTube video ID"
+msgstr ""
+
+#: framework/metabox/post-format.php:31
+msgid "Vimeo video ID"
+msgstr ""
+
+#: framework/metabox/post-format.php:41
+msgid "The Quote"
+msgstr ""
+
+#: framework/metabox/post-format.php:42
+msgid ""
+"Write your quote in this "
+"field."
+msgstr ""
+
+#: framework/metabox/post-format.php:48
+msgid "The Author"
+msgstr ""
+
+#: framework/metabox/post-format.php:49
+msgid ""
+"Write your author name "
+"of this."
+msgstr ""
+
+#: framework/metabox/post-format.php:58
+#: framework/metabox/post-format.php:68
+msgid "The URL"
+msgstr ""
+
+#: framework/metabox/post-format.php:59
+msgid ""
+"Insert the URL you wish "
+"to link to."
+msgstr ""
+
+#: framework/metabox/post-format.php:69
+msgid ""
+"Insert the status URL."
+msgstr ""
+
+#: framework/metabox/post-format.php:85
+msgid "Quote Settings"
+msgstr ""
+
+#: framework/metabox/post-format.php:86
+msgid "Gallery Settings"
+msgstr ""
+
+#: framework/metabox/post-format.php:87
+msgid "Link Settings"
+msgstr ""
+
+#: framework/metabox/post-format.php:88
+msgid "Audio Settings"
+msgstr ""
+
+#: framework/metabox/post-format.php:89
+msgid "Video Settings"
+msgstr ""
+
+#: framework/metabox/post-format.php:90
+msgid "Status Settings"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:334
+msgid ""
+"Install Required Plugins"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid ""
+"Installing Plugin: %s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:340
+msgid ""
+"Something went wrong "
+"with the plugin API."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:343
+#, php-format
+msgid ""
+"This theme requires the "
+"following plugin: %1$s."
+msgid_plural ""
+"This theme requires the "
+"following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:349
+#, php-format
+msgid ""
+"This theme recommends "
+"the following plugin: "
+"%1$s."
+msgid_plural ""
+"This theme recommends "
+"the following plugins: "
+"%1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin "
+"needs to be updated to "
+"its latest version to "
+"ensure maximum "
+"compatibility with this "
+"theme: %1$s."
+msgid_plural ""
+"The following plugins "
+"need to be updated to "
+"their latest version to "
+"ensure maximum "
+"compatibility with this "
+"theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:361
+#, php-format
+msgid ""
+"There is an update "
+"available for: %1$s."
+msgid_plural ""
+"There are updates "
+"available for the "
+"following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:367
+#, php-format
+msgid ""
+"The following required "
+"plugin is currently "
+"inactive: %1$s."
+msgid_plural ""
+"The following required "
+"plugins are currently "
+"inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:373
+#, php-format
+msgid ""
+"The following "
+"recommended plugin is "
+"currently inactive: %1$s."
+msgid_plural ""
+"The following "
+"recommended plugins are "
+"currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:378
+msgid ""
+"Begin installing plugin"
+msgid_plural ""
+"Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:383
+msgid ""
+"Begin updating plugin"
+msgid_plural ""
+"Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:388
+msgid ""
+"Begin activating plugin"
+msgid_plural ""
+"Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:392
+msgid ""
+"Return to Required "
+"Plugins Installer"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:393
+#: framework/plugins/class-tgm-plugin-activation.php:912
+#: framework/plugins/class-tgm-plugin-activation.php:2618
+#: framework/plugins/class-tgm-plugin-activation.php:3665
+msgid ""
+"Return to the Dashboard"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:394
+#: framework/plugins/class-tgm-plugin-activation.php:3244
+msgid ""
+"Plugin activated "
+"successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:395
+#: framework/plugins/class-tgm-plugin-activation.php:3037
+msgid ""
+"The following plugin was "
+"activated successfully:"
+msgid_plural ""
+"The following plugins "
+"were activated "
+"successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid ""
+"No action taken. Plugin "
+"%1$s was already active."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A "
+"higher version of %s is "
+"needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid ""
+"All plugins installed "
+"and activated "
+"successfully. %1$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more "
+"required or recommended "
+"plugins to install, "
+"update or activate."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:404
+msgid ""
+"Please contact the "
+"administrator of this "
+"site for help."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:607
+msgid ""
+"This plugin needs to be "
+"updated to be compatible "
+"with your theme."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin "
+"package does not contain "
+"a folder with the "
+"desired slug and "
+"renaming did not work."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1019
+#: framework/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the "
+"plugin provider and ask "
+"them to package their "
+"plugin according to the "
+"WordPress guidelines."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin "
+"package consists of more "
+"than one file, but the "
+"files are not packaged "
+"in a folder."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1206
+#: framework/plugins/class-tgm-plugin-activation.php:3033
+msgctxt ""
+"plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2377
+msgid ""
+"WordPress Repository"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2404
+msgid ""
+"Installed But Not "
+"Activated"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2412
+msgid ""
+"Required Update not "
+"Available"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt ""
+"Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid ""
+"All <span class=\"count"
+"\">(%s)</span>"
+msgid_plural ""
+"All <span class=\"count"
+"\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid ""
+"To Install <span class="
+"\"count\">(%s)</span>"
+msgid_plural ""
+"To Install <span class="
+"\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid ""
+"Update Available <span "
+"class=\"count\">(%s)</"
+"span>"
+msgid_plural ""
+"Update Available <span "
+"class=\"count\">(%s)</"
+"span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid ""
+"To Activate <span class="
+"\"count\">(%s)</span>"
+msgid_plural ""
+"To Activate <span class="
+"\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2567
+msgctxt ""
+"as in: \"version nr "
+"unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2583
+msgid ""
+"Minimum required version:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2618
+msgid ""
+"No plugins to install, "
+"update or activate."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2769
+msgid ""
+"Upgrade message from the "
+"plugin author:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2842
+msgid ""
+"No plugins were selected "
+"to be installed. No "
+"action taken."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2844
+msgid ""
+"No plugins were selected "
+"to be updated. No action "
+"taken."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2885
+msgid ""
+"No plugins are available "
+"to be installed at this "
+"time."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2887
+msgid ""
+"No plugins are available "
+"to be updated at this "
+"time."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2993
+msgid ""
+"No plugins were selected "
+"to be activated. No "
+"action taken."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3019
+msgid ""
+"No plugins are available "
+"to be activated at this "
+"time."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3243
+msgid ""
+"Plugin activation failed."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid ""
+"Updating Plugin %1$s "
+"(%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid ""
+"An error occurred while "
+"installing %1$s: <strong>"
+"%2$s</strong>."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid ""
+"The installation of %1$s "
+"failed."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and "
+"activation process is "
+"starting. This process "
+"may take a while on some "
+"hosts, so please be "
+"patient."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid ""
+"%1$s installed and "
+"activated successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3594
+#: framework/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3594
+#: framework/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3595
+msgid ""
+"All installations and "
+"activations have been "
+"completed."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid ""
+"Installing and "
+"Activating Plugin %1$s "
+"(%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process "
+"is starting. This "
+"process may take a while "
+"on some hosts, so please "
+"be patient."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid ""
+"%1$s installed "
+"successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3603
+msgid ""
+"All installations have "
+"been completed."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid ""
+"Installing Plugin %1$s "
+"(%2$d/%3$d)"
+msgstr ""
+
+#: framework/portfolio_functions.php:28
+#: framework/widgets/widget-posts.php:183
+msgid "All"
+msgstr ""
+
+#: framework/post-format/post-image.php:23
+#: framework/post-format/post-link.php:8
+#: framework/post-format/post.php:23
+#: search.php:59
+#: templates/blog/loop-chess.php:40
+#: templates/blog/loop-chess.php:72
+#: templates/blog/loop-chess.php:114
+#: templates/blog/loop-fullwidth_img.php:32
+#: templates/blog/loop-fullwidth_img.php:64
+#: templates/blog/loop-fullwidth_img.php:107
+#: templates/blog/loop-grid-bg.php:35
+#: templates/blog/loop-grid-bg.php:67
+#: templates/blog/loop-grid-bg.php:99
+#: templates/blog/loop-grid-bg.php:111
+#: templates/blog/loop-left-image.php:43
+#: templates/blog/loop-line_bg.php:24
+#: templates/blog/loop-line_thumb.php:29
+#: templates/blog/loop-magazine.php:76
+#: templates/blog/loop-magazine.php:175
+#: templates/blog/loop-masonry-bg.php:35
+#: templates/blog/loop-masonry-bg.php:67
+#: templates/blog/loop-masonry-bg.php:99
+#: templates/blog/loop-masonry_top_image.php:80
+#: templates/blog/loop-masonry_top_image.php:112
+#: templates/blog/loop-masonry_top_image.php:145
+#: templates/blog/loop-metro.php:36
+#: templates/blog/loop-metro.php:67
+#: templates/blog/loop-metro.php:97
+#: templates/blog/loop-top_image.php:78
+#: templates/blog/loop.php:42
+#: templates/blog/loop.php:74
+#: templates/blog/loop.php:103
+#: templates/blog/posts_carousel.php:75
+#: templates/blog/three_posts_after_slider.php:49
+#: templates/portfolio/loop.php:81
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: framework/theme_functions.php:253
+#: single.php:54
+#: templates/blog/loop-grid-bg.php:123
+#: templates/blog/loop-magazine.php:70
+#: templates/blog/loop-magazine.php:169
+#: templates/blog/loop-masonry-bg.php:120
+#: templates/slider/top_slider.php:44
+#: templates/slider/top_slider.php:74
+#: templates/slider/top_slider.php:107
+#: templates/slider/top_slider.php:144
+#: templates/slider/top_slider.php:206
+msgid "posted by"
+msgstr ""
+
+#: framework/theme_functions.php:254
+msgid "Edit"
+msgstr ""
+
+#: framework/theme_functions.php:256
+msgid "Reply"
+msgstr ""
+
+#: framework/theme_functions.php:262
+msgid ""
+"Your comment is awaiting "
+"moderation."
+msgstr ""
+
+#: framework/theme_functions.php:279
+msgid "Older Posts"
+msgstr ""
+
+#: framework/theme_functions.php:280
+msgid "Newer Posts"
+msgstr ""
+
+#: framework/theme_functions.php:282
+#: single-portfolio.php:42
+#: single.php:138
+msgid "Next"
+msgstr ""
+
+#: framework/theme_functions.php:283
+msgid "Prev"
+msgstr ""
+
+#: framework/theme_functions.php:369
+msgid "No more posts"
+msgstr ""
+
+#: framework/theme_functions.php:370
+msgid "Loading"
+msgstr ""
+
+#: framework/theme_functions.php:371
+msgid "Load More Posts"
+msgstr ""
+
+#: framework/theme_functions.php:505
+msgid "Featured Image"
+msgstr ""
+
+#: framework/widgets/widget-facebook.php:14
+msgid ""
+"Facebook Social widget"
+msgstr ""
+
+#: framework/widgets/widget-facebook.php:25
+msgid "Facebook widget"
+msgstr ""
+
+#: framework/widgets/widget-facebook.php:83
+#: framework/widgets/widget-instagram.php:204
+#: framework/widgets/widget-posts.php:131
+#: framework/widgets/widget-social.php:97
+msgid "Title:"
+msgstr ""
+
+#: framework/widgets/widget-facebook.php:89
+msgid ""
+"Facebook Name: "
+"( facebook.com/ * Type "
+"into field * )"
+msgstr ""
+
+#: framework/widgets/widget-facebook.php:96
+msgid "Width(px):"
+msgstr ""
+
+#: framework/widgets/widget-facebook.php:105
+msgid "Color scheme:"
+msgstr ""
+
+#: framework/widgets/widget-facebook.php:120
+msgid "Show stream:"
+msgstr ""
+
+#: framework/widgets/widget-facebook.php:134
+msgid "Show faces:"
+msgstr ""
+
+#: framework/widgets/widget-facebook.php:148
+msgid "Show header:"
+msgstr ""
+
+#: framework/widgets/widget-flickr.php:68
+msgid "Flickr ID"
+msgstr ""
+
+#: framework/widgets/widget-flickr.php:73
+msgid "Number of images"
+msgstr ""
+
+#: framework/widgets/widget-instagram.php:73
+msgid ""
+"Unable to communicate "
+"with Instagram."
+msgstr ""
+
+#: framework/widgets/widget-instagram.php:77
+msgid ""
+"Instagram did not return "
+"a 200."
+msgstr ""
+
+#: framework/widgets/widget-instagram.php:85
+#: framework/widgets/widget-instagram.php:97
+#: framework/widgets/widget-instagram.php:101
+msgid ""
+"Instagram has returned "
+"invalid data."
+msgstr ""
+
+#: framework/widgets/widget-instagram.php:143
+msgid "Instagram Image"
+msgstr ""
+
+#: framework/widgets/widget-instagram.php:171
+msgid ""
+"Instagram did not return "
+"any images."
+msgstr ""
+
+#: framework/widgets/widget-instagram.php:208
+msgid "User name:"
+msgstr ""
+
+#: framework/widgets/widget-instagram.php:212
+msgid ""
+"Number of Photos to show:"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:10
+msgid ""
+"Evatheme Latest Posts"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:135
+msgid "View Type:"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:144
+#: single-portfolio.php:69
+msgid "Category:"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:158
+msgid "Order by:"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:164
+msgid "Comment count"
+msgstr ""
+
+#: framework/widgets/widget-posts.php:169
+msgid "Number:"
+msgstr ""
+
+#: framework/widgets/widget-twitter.php:12
+msgid ""
+"Retrieve the last tweets."
+msgstr ""
+
+#: framework/widgets/widget-twitter.php:17
+msgid ""
+"Evatheme Last Tweets"
+msgstr ""
+
+#: framework/widgets/widget-twitter.php:22
+msgid "Recent tweets"
+msgstr ""
+
+#: framework/widgets/widget-twitter.php:53
+msgid "Username"
+msgstr ""
+
+#: framework/widgets/widget-twitter.php:60
+msgid "Consumer key"
+msgstr ""
+
+#: framework/widgets/widget-twitter.php:67
+msgid "Consumer secret"
+msgstr ""
+
+#: framework/widgets/widget-twitter.php:74
+msgid "Access token"
+msgstr ""
+
+#: framework/widgets/widget-twitter.php:81
+msgid "Access token secret"
+msgstr ""
+
+#: framework/widgets/widget-twitter.php:88
+msgid "View Type"
+msgstr ""
+
+#: framework/widgets/widget-twitter.php:98
+msgid "Limit"
+msgstr ""
+
+#: framework/widgets/widget-twitter.php:113
+msgid "Show Time"
+msgstr ""
+
+#: framework/widgets/widget-twitter.php:121
+msgid "Show Follow link"
+msgstr ""
+
+#: framework/widgets/widget-twitter.php:180
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: framework/widgets/widget-twitter.php:218
+msgid ""
+"Follow us on Twitter "
+"&rarr;"
+msgstr ""
+
+#: framework/widgets/widgets.php:10
+msgid "Blog Sidebar"
+msgstr ""
+
+#: framework/widgets/widgets.php:20
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: framework/widgets/widgets.php:30
+msgid "Fixed Sidebar"
+msgstr ""
+
+#: framework/widgets/widgets.php:32
+msgid ""
+"Here you can create a "
+"set of widgets to "
+"display in the Fixed "
+"Sidebar. It should be "
+"enable in the Theme "
+"Options"
+msgstr ""
+
+#: framework/widgets/widgets.php:45
+msgid "Footer sidebar "
+msgstr ""
+
+#: framework/widgets/widgets.php:47
+msgid ""
+"The footer sidebar "
+"widget area"
+msgstr ""
+
+#: framework/widgets/widgets.php:62
+msgid "Shop Sidebar"
+msgstr ""
+
+#: framework/widgets/widgets.php:64
+msgid ""
+"Here you can create a "
+"set of widgets to "
+"display in the Shop "
+"Sidebar. It should be "
+"enable in the Theme "
+"Options"
+msgstr ""
+
+#: framework/woo_functions.php:200
+msgid "Share:"
+msgstr ""
+
+#: framework/woo_functions.php:201
+#: templates/blog/sharebox.php:6
+#: templates/portfolio/sharebox.php:6
+msgid "Facebook"
+msgstr ""
+
+#: framework/woo_functions.php:202
+#: templates/blog/sharebox.php:10
+#: templates/portfolio/sharebox.php:10
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:36
+msgid "Primary Menu"
+msgstr ""
+
+#: page-comingsoon.php:21
+msgid "Hey Guys!"
+msgstr ""
+
+#: page-comingsoon.php:22
+msgid ""
+"We're Coming Soon..."
+msgstr ""
+
+#: page-comingsoon.php:25
+msgid "to start left"
+msgstr ""
+
+#: page-comingsoon.php:57
+msgid "FIND US ON"
+msgstr ""
+
+#: page.php:42
+#: single-portfolio.php:119
+#: single.php:99
+msgid "Read more!"
+msgstr ""
+
+#: page.php:44
+#: single-portfolio.php:120
+#: single.php:100
+msgid "Pages"
+msgstr ""
+
+#: search.php:25
+#, php-format
+msgid ""
+"Search Results for: %s"
+msgstr ""
+
+#: search.php:63
+#: templates/blog/loop-chess.php:118
+#: templates/blog/loop-fullwidth_img.php:119
+#: templates/blog/loop-grid-bg.php:127
+#: templates/blog/loop-left-image.php:47
+#: templates/blog/loop-line_bg.php:44
+#: templates/blog/loop-masonry-bg.php:124
+#: templates/blog/loop-masonry_top_image.php:153
+#: templates/blog/loop-metro.php:98
+#: templates/blog/loop-top_image.php:87
+#: templates/blog/loop.php:112
+msgid "Read More"
+msgstr ""
+
+#: search.php:78
+msgid ""
+"Sorry, but nothing "
+"matched your search "
+"criteria. Please try "
+"again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:4
+msgid "Type your search"
+msgstr ""
+
+#: single-portfolio.php:37
+#: single.php:133
+msgid "Previous"
+msgstr ""
+
+#: single-portfolio.php:84
+msgid "Date:"
+msgstr ""
+
+#: single-portfolio.php:91
+msgid "Tags:"
+msgstr ""
+
+#: templates/blog/authorinfo.php:6
+msgid "Post Author"
+msgstr ""
+
+#: templates/blog/loop-chess.php:47
+#: templates/blog/loop-fullwidth_img.php:39
+#: templates/blog/loop-grid-bg.php:42
+#: templates/blog/loop-masonry-bg.php:42
+#: templates/blog/loop-masonry_top_image.php:87
+#: templates/blog/loop-metro.php:43
+#: templates/blog/loop.php:49
+msgid "Say"
+msgstr ""
+
+#: templates/blog/related-posts.php:7
+msgid "You Might Also Like"
+msgstr ""
+
+#: templates/blog/sharebox.php:2
+#: templates/portfolio/sharebox.php:2
+msgid "Share"
+msgstr ""
+
+#: templates/blog/sharebox.php:19
+#: templates/portfolio/sharebox.php:19
+msgid "Reddit"
+msgstr ""
+
+#: templates/blog/sharebox.php:23
+#: templates/portfolio/sharebox.php:23
+msgid "Digg"
+msgstr ""
+
+#: templates/blog/sharebox.php:27
+#: templates/portfolio/sharebox.php:27
+msgid "Delicious"
+msgstr ""
+
+#: templates/blog/sharebox.php:31
+#: templates/portfolio/sharebox.php:31
+msgid "Google+"
+msgstr ""
+
+#: templates/header/header_layout.php:14
+#: templates/header/header_layout.php:39
+#: templates/header/header_layout.php:65
+#: templates/header/header_layout.php:93
+#: templates/header/header_layout.php:118
+#: templates/header/header_layout.php:143
+#: templates/header/header_layout.php:174
+#: templates/header/header_layout.php:216
+#: templates/header/header_layout.php:253
+#: templates/header/header_layout.php:290
+msgid "Menu"
+msgstr ""
+
+#: templates/instagram.php:22
+#: templates/instagram.php:32
+#: templates/instagram.php:45
+msgid "Join to Instagram"
+msgstr ""
+
+#: templates/mini-cart.php:29
+msgid "My Account"
+msgstr ""
+
+#: templates/mini-cart.php:31
+msgid "Login"
+msgstr ""
+
+#: templates/mini-cart.php:32
+msgid "or"
+msgstr ""
+
+#: templates/mini-cart.php:33
+msgid "Register"
+msgstr ""
+
+#: templates/mini-cart.php:36
+msgid "Cart"
+msgstr ""
+
+#: templates/mini-cart.php:45
+msgid ""
+"Your cart is currently "
+"empty."
+msgstr ""
+
+#: templates/mini-cart.php:49
+msgid "Continue Shopping"
+msgstr ""
+
+#: templates/mini-cart.php:88
+msgid "Remove product"
+msgstr ""
+
+#: templates/mini-cart.php:99
+msgid "Qty:"
+msgstr ""
+
+#: templates/portfolio/related-portfolios.php:2
+msgid "Related Projects"
+msgstr ""
