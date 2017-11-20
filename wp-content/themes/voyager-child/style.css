@@ -1,0 +1,105 @@
+/*
+ Theme Name:   Voyager Child
+ Theme URI:    /voyager-child/
+ Description:  Child theme based on Voyager
+ Author:       Mainul Hasan
+ Template:     voyager
+ Version:      1.0.0
+ Tags:         black, green, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready, responsive-layout, infinite-scroll, post-slider, design, food, journal, magazine, news, photography, portfolio, clean, contemporary, dark, elegant, modern, professional, sophisticated
+ Text Domain:  voyager-child
+*/
+
+header {
+    margin: 20px 0 0 !important;
+    padding-bottom: 20px !important;
+}
+
+#menu-primary-menu {
+    margin: 20px 0 0;
+}
+
+header .social_links_wrap {
+    margin: 20px 0 0 !important;
+}
+
+#blog_list.blog_list_style_chess {
+    padding-top: 20px !important;
+}
+
+.menu-primary-menu-container-wrap ul li {
+    margin: 0 15px !important;
+}
+
+.social_link {
+    margin: 0 9px !important;
+}
+
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover,
+input[type="submit"]:focus,
+input[type="button"]:hover,
+input[type="reset"]:hover {
+    color: white;
+}
+
+body a:hover, body a:focus, .contentarea p a:hover, .contentarea p a:focus {
+    text-decoration: none;
+}
+
+.contentarea form.wpcf7-form .login-remember label {
+    line-height: 48px;
+    display: inline;
+}
+
+
+.registration-form-fields {
+    display: table;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.registration-rows {
+    display: table-row;
+}
+
+.registration-columns {
+    display: table-cell;
+}
+
+body.header_type5 .menu-primary-menu-container-wrap ul.nav-menu {
+    margin: 20px 0;
+}
+
+.page_title {
+    display: none;
+    visibility: hidden;
+}
+
+. container .contentarea form.wpcf7-form {
+    padding: 20px;
+}
+
+#page-content #blog_list.blog_list_style_top_image {
+    margin-top: 0px;
+}
+
+@media (min-width: 769px) {
+    /* tablet, landscape iPad, lo-res laptops ands desktops */
+    .cstheme-logo a img {
+        max-width: 600px;
+    }
+
+    header {
+        height: 165px !important;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    /* tablet, landscape iPad, lo-res laptops ands desktops */
+    #header_mobile_wrap header {
+        margin: 10px 0 0 !important;
+        padding: 0px !important;
+    }
+}
