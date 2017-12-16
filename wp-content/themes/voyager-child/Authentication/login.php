@@ -22,16 +22,7 @@ get_header();
 
 					<div class="contentarea clearfix">
 
-						<?php
-						$args = array(
-							'redirect' => home_url(),
-							'id_username' => 'user',
-							'id_password' => 'pass',
-						);
-						//wp_login_form();
-						?>
-
-						<form action="<?php echo home_url(); ?>/wp-login.php" method="post" class="wpcf7-form" name="loginform" id="loginform" novalidate="novalidate">
+						<form action="" method="post" class="wpcf7-form" name="loginform" id="loginform" novalidate="novalidate">
                             <label class="login-msg" style="color: #f53034">
 								<?php
 								$login  = (isset($_GET['login']) ) ? $_GET['login'] : 0;
@@ -42,18 +33,24 @@ get_header();
 								} elseif ( $login === "false" ) {
 									echo '<i class="fa fa-info-circle" aria-hidden="true"></i>&nbsp;You are logged out.';
 								}
+								if(isset($_SESSION['message'])) {
+									$messages = $_SESSION['message'];
+									foreach ($messages as $message) {
+										echo "<i class='fa fa-info-circle' aria-hidden='true'></i>&nbsp;$message<br/>";
+									}
+								}
 								?>
                             </label>
 							<p>
 								<label for="user_login">Username/E-mail</label><br>
 								<span class="wpcf7-form-control-wrap username">
-									<input type="text" name="log" id="user_login" value class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+									<input type="text" name="user_login" id="user_login" value class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
 								</span>
 							</p>
 							<p>
 								<label for="user_pass">Password</label><br>
 								<span class="wpcf7-form-control-wrap password">
-									<input type="password" id="user_pass" name="pwd" value class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+									<input type="password" id="user_pass" name="user_pass" value class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
 								</span>
 							</p>
 							<p class="login-remember">
@@ -62,11 +59,15 @@ get_header();
 								</label>
 							</p>
 							<p class="form-submit">
-								<input name="wp-submit" type="submit" id="wp-submit" class="submit" value="Log In">
-								<input type="hidden" name="redirect_to" value="<?php echo home_url(); ?>/login">
+								<input name="login-submit" type="submit" id="login-submit" class="submit" value="Log In">
+								<input type="hidden" name="redirect_to" value="<?php echo home_url(); ?>">
 							</p>
-                            <!--<label>Not a member yet? <a href="<?php /*echo home_url(); */?>/register">Register here</a></label>-->
-                            <label>Registration is closed at this moment! :(</label>
+                            <p>
+                                <label>Not a member yet? <a href="<?php echo home_url(); ?>/register">Register here</a></label>
+                            </p>
+                            <p>
+                                <label><a href="<?php echo home_url(); ?>/forgot-password/">Forgot your password?</a></label>
+                            </p>
 						</form>
 
 					</div>
@@ -77,3 +78,7 @@ get_header();
 	</div>
 
 <?php get_footer(); ?>
+
+<?php
+unset($_SESSION['message']);
+?>
