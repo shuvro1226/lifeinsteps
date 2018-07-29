@@ -85,6 +85,36 @@ body.header_type5 .menu-primary-menu-container-wrap ul.nav-menu {
     margin-top: 0px;
 }
 
+/*Single post custom styles*/
+
+.single_post_meta > span.single-post-category {
+    font-family: 'Pacifico', sans-serif;
+    text-transform: capitalize;
+}
+
+.single_post_meta > span.single-post-category a {
+    font-size: 16px;
+}
+
+#blog-single-wrap h2.single-post-title {
+    margin-bottom: 20px;
+    line-height: 48px;
+    font-size: 48px;
+    margin-top: 0px;
+}
+
+#blog-single-wrap .single_post_header {
+    padding: 0 0 30px;
+}
+
+.post_format_content.mb55.text-center {
+    margin-bottom: 20px;
+}
+
+aside[id^="recent-comments"], aside[id^="meta"] {
+    display: none;
+}
+
 @media (min-width: 769px) {
     /* tablet, landscape iPad, lo-res laptops ands desktops */
     .cstheme-logo a img {
